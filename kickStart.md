@@ -29,7 +29,7 @@ ChefPI is a smart cooking assistant that runs entirely on a simple Raspberry Pi.
 
 ## 🧪 Live Prototype
 
-![Interface](./Capture%20d’écran%20du%202025-05-26%2023-59-51.png)
+![Interface](./llamaServer.png)
 
 ## 💬 Testimonials
 
